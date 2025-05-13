@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Li"
+  given-names: "Yongkang"
+  orcid: "https://orcid.org/0000-0003-1785-4689"
+- family-names: "Matthews"
+  given-names: "Joseph"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Schmidler"
+  given-names: "Scott C."
+  orcid: "https://orcid.org/0009-0006-3733-3716"
+title: "On Gibbs Sampling for Endpoint-Conditioned Neighbor-Dependent Sequence Evolution Models"
+version: 1.0.0
+doi:
+date-released: 2025-05-15
+url: "https://github.com/YongkangLi/context-met"
